@@ -5,5 +5,5 @@
 
 Welcome to William & Mary's Batten School & VIMS 
 
-#[Communications, Marketing & Public Engagement Team](https://www.vims.edu/about/leadership_admin/comms_marketing/)
+# [Communications, Marketing & Public Engagement Team](https://www.vims.edu/about/leadership_admin/comms_marketing/)
 
